@@ -1,6 +1,6 @@
 # 📚 Document Question Answering System
 
-A document-based question answering system using vector embeddings and retrieval-augmented generation powered by OpenAI and ChromaDB.
+A document-based question answering system using vector embeddings and retrieval-augmented generation(RAG) powered by OpenAI and ChromaDB.
 
 ## ✨ Features
 
@@ -22,8 +22,8 @@ A document-based question answering system using vector embeddings and retrieval
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/document-qa-system.git
-   cd document-qa-system
+   git clone https://github.com/yourusername/AskDocs_AI.git
+   cd AskDocs_AI
   
 2. Set up virtual environment:
    ```bash
